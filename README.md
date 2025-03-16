@@ -1,4 +1,4 @@
-# Digital Work Studio
+# Digital Works Studio
 
 A powerful web-based 3D game engine development environment that enables creators to build, edit, and preview 3D scenes directly in their browser. Built with React, Three.js, and modern web technologies.
 
