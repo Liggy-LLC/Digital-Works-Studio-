@@ -58,6 +58,7 @@ A powerful web-based 3D game engine development environment that enables creator
 4. Manipulate objects using the transform controls
 5. Customize materials in the properties panel
 6. Save your work and share with others
+7. Vist `https://91bcf61c-ebe6-4ab3-ac45-9a0e39b3d2cb-00-3qxtug2vdlkp5.spock.replit.dev/auth`
 
 ## Security Features
 
